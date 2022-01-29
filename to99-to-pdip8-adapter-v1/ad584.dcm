@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD584
+D Pin Programmable, Precision Voltage Reference, DIP-8, TO-99
+K voltage reference
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD584.pdf
+$ENDCMP
+#
+#End Doc Library
