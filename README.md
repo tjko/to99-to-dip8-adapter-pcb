@@ -15,7 +15,7 @@ There is two versions of the PCB:
   ![Version 2 PCB](/images/to99-to-pdip8-v2.png)
 
 
-## Kebers
+## Kerbers
 
 Ready made kerber files of these two PCBs are found under kerbers/ directory.
 These ZIP files are ready to be uploaded to a PCB manufacturer website (such as JLCPCB).
