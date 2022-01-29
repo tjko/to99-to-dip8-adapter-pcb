@@ -5,6 +5,8 @@ This is collection of adapters for mounting components in TO-99 package into DIP
 
 This was created to be able to use AD584LH (that is only available in TO-99 package) in place of AD584JN or AD584KN, as AD584LH is higher precision voltage reference and is often being sold for significantly less.
 
+![Finished Adapters](/images/to99-to-pdip8-adapters.jpg)
+
 ## PCB designs
 There is two versions of the PCB:
 * Version 1: [KiCad project](/to99-to-pdip8-adapter-v1/)
